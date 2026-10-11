@@ -16,7 +16,7 @@ The codebase is modularly engineered, isolating individual structural concerns:
 ##  Implemented Algorithms & Functions
 
 ### 1. Advanced Graph Mechanics
-* **`GraphGetSetAdjacen  tsTo`**: Computes and retrieves a dedicated dynamic set containing all adjacent vertices linked to a target node.
+* **`GraphGetSetAdjacentsTo`**: Computes and retrieves a dedicated dynamic set containing all adjacent vertices linked to a target node.
 * **`GraphComputeVertexWeights`**: Evaluates topological importance by mapping structural node-weight distributions based on adjacent edge configurations.
 * **`GraphGetSubGraph`**: Generates a completely new valid subgraph instance derived from a filtered set of source vertices.
 
